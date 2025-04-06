@@ -69,4 +69,4 @@ Immerse GT 2025 Team
 
 - Lens Studio for AR capabilities
 - OpenDyslexic for accessibility font
-- Contributors and testers 
+- Contributors and testers
